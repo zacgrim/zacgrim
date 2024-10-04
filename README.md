@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @zacgrim
+- 👀 I’m interested in synthetic biology, computer science, AI/ML, pharmacology, sports, and philosophy!
+- 🌱 I’m currently learning how to write bash - so damn complicated for a beginner like me!
+- 💞️ I’m looking to collaborate on projects regarding bioinfo and cheminfo:)
+- 📫 How to reach me: zachary.grimard@mail.mcgill.ca
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have 3 cats at home!! Pancake, Maple and Goku
